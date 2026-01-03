@@ -63,12 +63,11 @@ A frontend internship assignment demonstrating HTML, CSS, and JavaScript fundame
 - Vanilla JavaScript
 
 ## 📸 Project Screenshots
+After running the code screenshot of that
+<img width="1909" height="911" alt="frontpage" src="https://github.com/user-attachments/assets/6d362061-ffd7-45a9-b060-4ada28ff39ea" />
+after clicking the show beginner
+<img width="1918" height="628" alt="frontpagefiltered" src="https://github.com/user-attachments/assets/07a8334f-64f5-4579-b938-831fdf28b6df" />
 
-### Default View
-<img width="1909" height="911" alt="frontpage" src="https://github.com/user-attachments/assets/83a26a44-f956-4d9f-b4df-b0a5ac5b1099" />
-
-### Filtered View (Beginner Courses)
-![Filtered View](screenshots/screenshot-filtered.png)
 
 ## How to Run
 1. Clone the repository
@@ -92,6 +91,7 @@ A sample layout and sample JSON data were used to demonstrate understanding of t
 ---
 
 Thank you for reviewing this project.
+
 
 
 
