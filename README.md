@@ -65,10 +65,10 @@ A frontend internship assignment demonstrating HTML, CSS, and JavaScript fundame
 ## 📸 Project Screenshots
 
 ### Default View
-![Default View](screenshots/frontpage.png)
+![Default View](screenshots/screenshot-default.png)
 
 ### Filtered View (Beginner Courses)
-![Filtered View](screenshots/frontpagefiltered.png)
+![Filtered View](screenshots/screenshot-filtered.png)
 
 ## How to Run
 1. Clone the repository
@@ -92,4 +92,5 @@ A sample layout and sample JSON data were used to demonstrate understanding of t
 ---
 
 Thank you for reviewing this project.
+
 
