@@ -65,7 +65,7 @@ A frontend internship assignment demonstrating HTML, CSS, and JavaScript fundame
 ## 📸 Project Screenshots
 
 ### Default View
-![Default View](screenshots/screenshot-default.png)
+<img width="1909" height="911" alt="frontpage" src="https://github.com/user-attachments/assets/83a26a44-f956-4d9f-b4df-b0a5ac5b1099" />
 
 ### Filtered View (Beginner Courses)
 ![Filtered View](screenshots/screenshot-filtered.png)
@@ -92,5 +92,6 @@ A sample layout and sample JSON data were used to demonstrate understanding of t
 ---
 
 Thank you for reviewing this project.
+
 
 
